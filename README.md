@@ -35,6 +35,11 @@ Contribuições são sempre bem-vindas! Caso queira sugerir melhorias ou corrigi
 - Criar uma **issue** relatando problemas ou sugestões  
 - Enviar um **pull request** com suas contribuições  
 
+## 📜 Certificação  
+
+Este projeto faz parte do programa **Oracle Next Education (ONE)**.  
+![Certificação](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+
 ## 📬 Contato  
 
 📧 **E-mail:** lorenacruz93@gmail.com  
